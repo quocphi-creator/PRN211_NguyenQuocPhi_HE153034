@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\ref\Slot6_IEnurableInterface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\bin\Debug\net5.0\Slot6_IEnurableInterface.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\ref\Slot6_IEnurableInterface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_IEnurableInterface\obj\Debug\net5.0\Slot6_IEnurableInterface.genruntimeconfig.cache

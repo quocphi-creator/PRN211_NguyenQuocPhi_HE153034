@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\ref\Slot6_GenericMethod.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\bin\Debug\net5.0\Slot6_GenericMethod.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\ref\Slot6_GenericMethod.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_GenericMethod\obj\Debug\net5.0\Slot6_GenericMethod.genruntimeconfig.cache
