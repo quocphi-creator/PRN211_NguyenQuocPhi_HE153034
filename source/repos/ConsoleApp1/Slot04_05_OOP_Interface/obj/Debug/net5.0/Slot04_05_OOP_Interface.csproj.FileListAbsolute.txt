@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\ref\Slot04_05_OOP_Interface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\bin\Debug\net5.0\Slot04_05_OOP_Interface.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\ref\Slot04_05_OOP_Interface.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot04_05_OOP_Interface\obj\Debug\net5.0\Slot04_05_OOP_Interface.genruntimeconfig.cache
