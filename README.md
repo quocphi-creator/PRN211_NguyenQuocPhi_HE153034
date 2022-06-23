@@ -8,4 +8,9 @@ Student ID: HE153034
 <br/>
 Student Name: Nguyễn Quốc Phi
 
-Folder Structure:
+<h2>1. Folder Structure:</h2>
+├── source                   # root folder
+    ├── ConsoleApp1             # code in slots lesson
+    ├── Assignment              # Code for Assignment 1
+    
+ 
