@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\ref\Slot6_SortedSet.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\bin\Debug\net5.0\Slot6_SortedSet.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\ref\Slot6_SortedSet.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_SortedSet\obj\Debug\net5.0\Slot6_SortedSet.genruntimeconfig.cache

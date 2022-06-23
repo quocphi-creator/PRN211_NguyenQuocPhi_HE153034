@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.exe
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.deps.json
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.dll
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\ref\Slot8_Concurrency.dll
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\bin\Debug\net5.0\Slot8_Concurrency.pdb
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.dll
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\ref\Slot8_Concurrency.dll
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.pdb
+C:\Users\ADMIN\source\repos\Slot8_Concurrency\Slot8_Concurrency\obj\Debug\net5.0\Slot8_Concurrency.genruntimeconfig.cache

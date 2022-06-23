@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\ref\Slot6_ColAndGene_Issue.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\bin\Debug\net5.0\Slot6_ColAndGene_Issue.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\ref\Slot6_ColAndGene_Issue.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_CollectionAndGeneric\obj\Debug\net5.0\Slot6_ColAndGene_Issue.genruntimeconfig.cache

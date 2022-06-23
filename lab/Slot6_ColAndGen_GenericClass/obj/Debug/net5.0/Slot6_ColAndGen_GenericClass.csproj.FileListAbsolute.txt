@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\ref\Slot6_ColAndGen_GenericClass.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\bin\Debug\net5.0\Slot6_ColAndGen_GenericClass.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\ref\Slot6_ColAndGen_GenericClass.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\Slot6_ColAndGen_GenericClass\obj\Debug\net5.0\Slot6_ColAndGen_GenericClass.genruntimeconfig.cache

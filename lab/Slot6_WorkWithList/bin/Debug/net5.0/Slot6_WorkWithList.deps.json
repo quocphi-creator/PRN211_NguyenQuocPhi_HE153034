@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Slot6_WorkWithList/1.0.0": {
+        "runtime": {
+          "Slot6_WorkWithList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot6_WorkWithList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
