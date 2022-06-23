@@ -7,3 +7,5 @@ PRN211 Summmer 2022
 Student ID: HE153034
 <br/>
 Student Name: Nguyễn Quốc Phi
+
+Folder Structure:
